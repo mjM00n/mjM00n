@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Michael
 
-#### `Data Scientist and Analyst`
-
 I am a driven Data Science and Analytics Masters student at the University of Calgary. Previously, I studied and researched chemistry at the University of Alberta. Communication and work ethic are my strengths, and in a team I am motivated to achieve collective goals and make meaningful progress. Outside of data science, I enjoy checking out local restaurants, working out, and watching football (go Seahawks!). On my page you can find all of my current and past datascience projects, which showcase individual and team projects throughout my data science journey. 
 
 ---
