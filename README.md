@@ -21,6 +21,8 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
 
 ---
 
-### Current Work
+### Completed Projects
 
-INCLUDE DETAILS ON 4 PROJECTS COMPLETED SO FAR IN SCHOOL WITH LINKS TO REPOSITORIES
+Data 604 **SQL_Queries** - The main focus of this class was learning how to utilize SQl through mySQL and SQL Alchemy to effectively navigate and explore databases. My team and I looked into on Alberta air quality and what factors may be directly related to specific air quality levels seen in Alberta. We leveraged open source datasets from the Government of Alberta on factors including demographics, agriculture, greenhouse gas emissions, and life expectancy to create a database and find insights through SQL queries.
+
+Data 603 **Multiple Linear Regression Modelling** - The two core topics in this class were multiple linear regression and logistical regression and how to utulize these regressions using R studio. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could predict 
