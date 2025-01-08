@@ -21,7 +21,7 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
 
 ---
 
-### Completed Projects
+### Master's Projects
 
 Data 604 **SQL_Queries** - The main focus of this class was learning how to utilize SQl through mySQL and SQL Alchemy to effectively navigate and explore databases. My team and I looked into on Alberta air quality and what factors may be directly related to specific air quality levels seen in Alberta. We leveraged open source datasets from the Government of Alberta on factors including demographics, agriculture, greenhouse gas emissions, and life expectancy to create a database and find insights through SQL queries.
 
