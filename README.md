@@ -33,3 +33,13 @@ The main focus of data 604 was utilizing SQl through mySQL and SQL Alchemy to ef
 <summary><h4>Data 603 - MLR_Car_Emissions</h4></summary>
 The two core learning objectives in data 603 were multiple linear regression and logistical regression. I learned how to utilize these two regression methods in R studio using R. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could account for 99.81% of adjusted variance in car CO2 emissions, but the model did not pass assumption test on equal variance and normality. 
 </details>
+
+<details>
+<summary><h4>Data 602 - Horror_Movie_Ratings</h4></summary>
+ 
+</details>
+
+<details>
+<summary><h4>Data 601 - Food_Security_Analysis</h4></summary>
+ 
+</details>
