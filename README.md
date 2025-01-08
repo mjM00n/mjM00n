@@ -26,10 +26,10 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
 
 <details>
 <summary><h4>Data 604 - SQL_Queries</h4></summary> 
-The main focus of this class was learning how to utilize SQl through mySQL and SQL Alchemy to effectively navigate and explore databases. My team and I looked into on Alberta air quality and what factors may be directly related to specific air quality levels seen in Alberta. We leveraged open source datasets from the Government of Alberta on factors including demographics, agriculture, greenhouse gas emissions, and life expectancy to create a database and find insights through SQL queries.
+The main focus of data 604 was utilizing SQl through mySQL and SQL Alchemy to effectively navigate and explore databases. My team and I looked into on Alberta air quality and what factors may be directly related to specific air quality levels seen in Alberta. We leveraged open source datasets from the Government of Alberta on factors including demographics, agriculture, greenhouse gas emissions, and life expectancy to create a database and find insights through SQL queries.
 </details>
 
 <details>
 <summary><h4>Data 603 - MLR_Car_Emissions</h4></summary>
-The two core topics in this class were multiple linear regression and logistical regression and how to utilize these regressions in R studio. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could account for 99.81% of adjusted variance in car CO2 emissions, but the model did not pass assumption test on equal variance and normality. 
+The two core learning objectives in data 603 were multiple linear regression and logistical regression. I learned how to utilize these two regression methods in R studio using R. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could account for 99.81% of adjusted variance in car CO2 emissions, but the model did not pass assumption test on equal variance and normality. 
 </details>
