@@ -40,6 +40,6 @@ The two core learning objectives in data 603 were multiple linear regression and
 </details>
 
 <details>
-<summary><h4>Data 601 - Food_Security_Analysis</h4></summary>
+<summary><h4>Data 601 - Food_Affordability_Analysis</h4></summary>
  
 </details>
