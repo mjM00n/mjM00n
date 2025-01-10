@@ -46,7 +46,7 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
       The two core learning objectives in data 603 were multiple linear regression and logistical regression. I learned how to utilize these two regression methods in R studio using R. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could account for 99.81% of adjusted variance in car CO2 emissions. Unfortunately, the model did not pass assumption tests for equal variance and normality, but it was a good learning experience for understanding the workflow to make a regression model.
     </td>
     <td style="width: 50%;">
-      <img alt="Food Spending Visualization from Tableau" src="https://github.com/user-attachments/assets/cad81f83-1c95-424b-b7b0-83cca9c8345b" width="1500px"/>
+      <img alt="Graph of Standard Residuals vs Fitted Values to Check Equal Variance" src="https://github.com/user-attachments/assets/fa23db56-129c-4b30-a349-f1ea6cd6d968" width="2000px"/>
     </td>
   </tr>
 </table>
