@@ -29,7 +29,7 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
  <table>
   <tr>
     <td width= "60%">
-      The main focus of data 604 was utilizing SQl through mySQL and SQL Alchemy to effectively navigate and explore databases. My team and I looked into on Alberta air quality and what factors may be directly related to specific air quality levels seen in Alberta. We leveraged open source datasets from the Government of Alberta on factors including demographics, agriculture, greenhouse gas emissions, and life expectancy to create a database and find insights through SQL queries.
+      The main focus of data 604 was utilizing SQl through mySQL and SQL Alchemy to effectively navigate and explore databases. My team and I looked into Albertan air quality and what factors may be directly related to specific air quality levels seen in Alberta. We leveraged open source datasets from the Government of Alberta on factors including demographics, agriculture, greenhouse gas emissions, and life expectancy to create a database and find insights through SQL queries. We found some interesting relationships between life expectancy and air quality index in the report, seeing that larger Albertan cities have worse air quality on average but higher overall life expectancies than smaller Albertan towns.
     </td>
     <td width= "40%">
       <img alt="Life Expectancy and Air Quality Index Trends" src="https://github.com/user-attachments/assets/3a2fa9c0-d8a9-4845-b40a-0e68c684efb8" width="2000px"/>
@@ -43,7 +43,7 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
 <table>
   <tr>
     <td width= "60%">
-      The two core learning objectives in data 603 were multiple linear regression and logistical regression. I learned how to utilize these two regression methods in R studio using R. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could account for 99.81% of adjusted variance in car CO2 emissions. Unfortunately, the model did not pass assumption tests for equal variance and normality, but it was a good learning experience for understanding the workflow to make a regression model.
+      The two core learning objectives in data 603 were multiple linear regression and logistical regression. I learned how to utilize these two regression methods in R studio using R. My team and I conducted a project on car CO2 emissions, looking to model which components in cars determine their level of CO2 output. Within this project, we created a multiple linear regression model that could account for 99.81% of adjusted variance in car CO2 emissions. Unfortunately, the model did not pass assumption tests for equal variance and normality, but it was a good learning experience for understanding the workflow of making a regression model.
     </td>
     <td width= "40%">
       <img alt="Graph of Standard Residuals vs Fitted Values to Check Equal Variance" src="https://github.com/user-attachments/assets/fa23db56-129c-4b30-a349-f1ea6cd6d968"/>
@@ -57,7 +57,7 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
 <table>
   <tr>
     <td width= "60%">
-      In data 602, we reviewed and practiced fundamental statistics in R using R studio. The main concepts were covered involved probability, hypothesis testing, confidence intervals, bootstrapping, central limit theorem, and linear regression. 
+      In data 602, we reviewed and put to use fundamental statistics in R through R studio. The main concepts covered were probability, hypothesis testing, confidence intervals, bootstrapping, central limit theorem, and linear regression. This was a fun introductory project my team and I worked on where our class was tasked to conduct hypothesis and confidence interval testing on a dataset. The project was done around the same time as halloween, so to be festive the data we looked into was on horror movies. We found our data from the IMDb database, and were interested in seeing whether longer or shorter horror movies had higher average ratings on the IMDb scale of 1-10. We found that longer horror movies had higher overall ratings than short horror movies at a 95% confidence level, and the ratings on longer movies were between 0.4 - 0.8 higher on average.
     </td> 
     <td width= "40%">
       <img alt="Food Spending Visualization from Tableau" src="https://github.com/user-attachments/assets/6593a11f-0e4a-4e53-bf47-6b091546d895"/>
@@ -70,10 +70,10 @@ I am a driven Data Science and Analytics Masters student at the University of Ca
 <summary><h4>Data 601 - Food_Affordability_Analysis</h4></summary>
 <table>
   <tr>
-    <td width= "60%">
-      Data 601 was my main introductory course in data science in python, and we were taught how to take advantage of a variety of different libraries for data wrangling and analysis (NumPy, pandas, matplotlibs, plotly, etc.). My team and I completed a comprhensive analysis of Canadian food affordability for our class project by utilizing data on Canadian food security levels, food prices, and food spending habits. We cleaned and merged multiple datasets using pandas, completed statistical analysis on the data, and leveraged our free student subscription to tableau to create clear and comprehensive visualizations. All of our findings are put together in a 42 page final report in my repository.
+    <td width= "50%">
+      Data 601's focus was data science in python, and we were taught how to take advantage of a variety of different libraries for data wrangling and analysis (NumPy, pandas, matplotlibs, plotly, etc.). My team and I completed a comprhensive analysis of Canadian food affordability for our class project by utilizing data on Canadian food security levels, food prices, and food spending habits. We cleaned and merged multiple datasets using pandas, completed statistical analysis on the data, and leveraged our free student subscription to tableau to create clear and comprehensive visualizations. We found out many interesting facts, including that for households that fall in the lowest income bracket in Canada, over 30% of their average annual earnings are allocated to food spending. All of our findings are put together in a 42 page final report in my repository.
     </td>
-    <td width = "40%">
+    <td width = "50%">
       <img alt="Food Spending Visualization from Tableau" src="https://github.com/user-attachments/assets/905f75b9-b64f-4e6e-9c6f-8dbe77b9951a"/>
     </td>
   </tr>
