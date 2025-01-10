@@ -36,7 +36,7 @@ The two core learning objectives in data 603 were multiple linear regression and
 
 <details>
 <summary><h4>Data 602 - Horror_Movie_Ratings</h4></summary>
- 
+
 </details>
 
 <details>
